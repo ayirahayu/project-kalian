@@ -3151,7 +3151,7 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 <br>
 
 11. [https://ayirahayu.github.io/]
-      **Ayi Rahayu**
+      <br>**Ayi Rahayu**
       
       Selamat malam pa Dika, perkenalkan nama saya Ayi Rahayu, saya bekerja sebagai Lead Data Engineer di salah satu perbankan di Indonesia. 
 
@@ -3160,3 +3160,4 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
       karena saya baru belajar di Front End Developer, saya ingin meminta kritik dan saran nya untuk portofolio saya di atas. 
 
       Terima Kasih Pak Dika 🙌🏻🙌🏻
+<br>
